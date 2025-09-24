@@ -2,7 +2,7 @@ import streamlit as st
 from langchain_community.llms import Ollama
 import requests
 
-st.set_page_config(page_title=" RAG Assistant Model ", page_icon="🚀")
+st.set_page_config(page_title=" RAG Assistant Model ", page_icon="🚚")
 
 st.title(" 🏠 RAG Assistant Model for Victorias Movers ")
 st.markdown("**No API keys • Local Ollama • Simple Version**")
